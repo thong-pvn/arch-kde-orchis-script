@@ -1,0 +1,20 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=/usr/bin/conky,-c,/home/codespace/.conky/Antares/Antares
+count=1
+
+[Session: saved at previous logout]
+clientId1=1013bdfc5c8000164148567400000013060005
+clientId2=1013bdfc5c8000164148567500000013060008
+count=2
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1013bdfc5c8000164148567400000013060005_1641486066_449793
+restartCommand2=
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=codespace
+userId2=codespace

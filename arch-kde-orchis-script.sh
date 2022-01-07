@@ -27,3 +27,7 @@ cd $cwd/virtual-desktop-bar/scripts/
 ./install-dependencies-arch.sh
 ./install-applet.sh
 yay -S brave-bin latte-dock-git kdeconnect visual-studio-code-bin
+mkdir -p ~/.config/plasmaConfSaver/
+cp -rH $cwd/kde-completed/ ~/.config/plasmaConfSaver/
+cd ~
+rm -rf $cwd
