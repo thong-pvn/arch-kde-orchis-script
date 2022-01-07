@@ -18,6 +18,7 @@ cd $cwd/Tela-circle-icon-theme/
 cd $cwd/Vimix-cursors/
 ./install.sh
 cd $cwd/kde-setup-02
+mkdir -p ~/Pictures/
 cp -R wallpapers/ ~/Pictures/
 mv fonts/ .fonts/
 cp -R .fonts/ ~/
