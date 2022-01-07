@@ -1,6 +1,8 @@
 Make Your KDE Plasma Desktop A Minimal And Elegant Look with Orchis Theme
 
 Execution
+- git clone https://github.com/thong-pvn/arch-kde-orchis-script.git
+- cd arch-kde-orchis-script
 - ./arch-kde-orchis-script.sh
 
 Install and configure plasmoids widget
