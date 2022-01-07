@@ -11,4 +11,6 @@ Plasmoids widget requirements
 - Event Calendar
 - ditto menu
 
+Restore config using Plasma ConfigSaver
+
 [![](https://img.youtube.com/vi/zfOe1Kfb4WE/0.jpg)](https://www.youtube.com/watch?v=zfOe1Kfb4WE)
